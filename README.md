@@ -20,8 +20,8 @@ To run the application, follow these steps:
 2. Open the backend project in your favorite Java IDE (e.g. IntelliJ IDEA).
 3. Build and run the Spring Boot application.
 4. Open the frontend project in a terminal.
-5. Install the necessary dependencies by running npm install.
-6. Start the Vue.js development server by running npm run serve.
+5. Install the necessary dependencies by running `npm install`.
+6. Start the Vue.js development server by running `npm run serve`.
 7. Navigate to http://localhost:8080 in your web browser to view the application.
 
 ## Usage
