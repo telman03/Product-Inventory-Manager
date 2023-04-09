@@ -10,6 +10,7 @@ The following technologies were used in the development of this application:
 - Vue.js
 - Spring Boot
 - Java
+- PostgreSQL
 - JavaScript
 - HTML&CSS
 
